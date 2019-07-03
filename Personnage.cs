@@ -1,5 +1,5 @@
 class Heros:Personnage {
-	void Frapper(Personnage personnage , int force ) {
+	void frapper(Personnage personnage , int force ) {
 
 	}
 	public void Deplacer(Direction direction ) {
