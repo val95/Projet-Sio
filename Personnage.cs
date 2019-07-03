@@ -3,4 +3,8 @@ class Heros:Personnage {
 
 	}
 
+	public Lieu Regarder(Direction direction , int distance ) {
+
+	}
+
 }
