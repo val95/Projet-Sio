@@ -26,7 +26,7 @@ Le développement tourne autour de 3 grandes parties
   
 
 
-##L'inscription en ligne ##
+## L'inscription en ligne ##
 
 site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne. 
 
@@ -34,14 +34,21 @@ site web permettant à un joueur de s'inscrire en ligne le projet prévoit le pr
 
 
 
-##sio crawler le jeu ##
+## sio crawler le jeu ##
 
 le joueur possèdera les fonctionnalités suivant 
 
 
-![useCasePersonnage.PNG](https://zupimages.net/up/19/27/50a0.png)
+![acteurFluxInscription.png](https://zupimages.net/up/19/27/50a0.png)
 
 
 les classes développées.
 
-![diagrammeClassePersonnage.PNG](https://zupimages.net/up/19/27/i39q.png)
+![diagrammeClassePersonnage.png](https://zupimages.net/up/19/27/i39q.png)
+
+
+## Sauvegarde du context ##
+
+La sauvegarde du contexte se fera dans la base de données.
+
+![mcdSauvegarde.PNG](https://zupimages.net/up/19/27/c1am.png)
