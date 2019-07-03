@@ -6,8 +6,5 @@ class Heros:Personnage {
 	public Lieu Regarder(Direction direction , int distance ) {
 
 	}
-	public void Deplacer (Direction direction ) {
-
-	}
 
 }
